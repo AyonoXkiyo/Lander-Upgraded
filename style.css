@@ -22,10 +22,12 @@ nav{
 
 .form{
     width: 250px;
-    height: fit-content;
     background-color: #6499E9;
     border: #100E09 solid 3px;
     text-align: center;
+    position: relative;
+    top: 150px;
+    left: 520px;
 }
 
 .form input{
